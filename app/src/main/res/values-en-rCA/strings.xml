@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="mensaje_hola">Hello word!!</string>
+    <string name="texto_pregunta">Here is the question</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="pregunta_promedio">Passing average is greather than 9</string>
+    <string name="pregunta_valles">Cuvalles doesn\'t belong to the UDG</string>
+    <string name="pregunta_estado">Database is a matter of Technologies</string>
+    <string name="prev_button">Previous</string>
+</resources>

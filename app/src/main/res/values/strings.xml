@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="mensaje_hola">Hola mundo!!</string>
+    <string name="texto_pregunta">Aquí va la pregunta</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto</string>
+    <string name="incorrect_toast">Incorrecto</string>
+    <string name="next_button">Siguiente</string>
+    <string name="prev_button">Anterior</string>
+    <string name="pregunta_promedio">Promedio aprobatorio es mayor a 9</string>
+    <string name="pregunta_valles">Cuvalles no pertenece a la UDG</string>
+    <string name="pregunta_estado">Base de Datos es materia de Tecnologias</string>
+
+
+</resources>
